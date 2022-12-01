@@ -1,0 +1,32 @@
+# Varahakulam family
+
+# Two lines represent an union:
+Varahakulam A. Rangaswamy Iyengar (M, birthday=1836, deathday=1916)
+Alamelu (F)
+# Indented lines after the union represent children
+	Shenbakam (F)
+	Ranganayaki (F)
+	C.R. Thiruvenkatachari (M)
+	C.R Lakshmivaraha Iyengar (M)
+	C.R. Krishnaswamy Iyengar (M)
+
+#Shenbakam
+Shenbakam (F)
+M. Sarangan (M)
+
+#Ranganayaki
+Ranganayaki (F)
+Raghava Iyengar (M)
+
+#C.R. Thiruvenkatachari
+C.R. Thiruvenkatachari (M)
+Sitammal (F)
+
+#C.R Lakshmivaraha Iyengar (M)
+C.R Lakshmivaraha Iyengar (M)
+Kothai (F)
+
+#C.R. Krishnaswamy Iyengar (M)
+C.R. Krishnaswamy Iyengar (M)
+Komalavalli (F)
+
