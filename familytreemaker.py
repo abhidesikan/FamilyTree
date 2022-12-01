@@ -91,7 +91,7 @@ class Person:
 			if 'deathday' in self.attr:
 				label += ' - ' + str(self.attr['deathday'])
 		elif 'deathday' in self.attr:
-			label += '\\n- ' + str(self.attr['deathday'])
+			label += '\\n(' + str(self.attr['deathday']) + ')'
 		if 'notes' in self.attr:
 			label += '\\n' + str(self.attr['notes'])
 		opts = ['label="' + label + '"']

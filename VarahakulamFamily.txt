@@ -5,28 +5,196 @@ Varahakulam A. Rangaswamy Iyengar (M, birthday=1836, deathday=1916)
 Alamelu (F)
 # Indented lines after the union represent children
 	Shenbakam (F)
-	Ranganayaki (F)
+	Ranganayaki (F, id=Ranganayaki1)
 	C.R. Thiruvenkatachari (M)
 	C.R Lakshmivaraha Iyengar (M)
 	C.R. Krishnaswamy Iyengar (M)
 
 #Shenbakam
-Shenbakam (F)
+Shenbakam 
 M. Sarangan (M)
 
 #Ranganayaki
-Ranganayaki (F)
+Ranganayaki (id=Ranganayaki1)
 Raghava Iyengar (M)
+	Sita (F, deathday=d, id=Sita1)
+	R. Varadarajan (M, deathday=d)
+	Kamala (F, deathday=d, id=Kamala1)
+
+#Sita
+Sita (id=Sita1)
+Rangaswamy Iyengar (M, id=RIyengar1, deathday=d)
+	R. Gitachari (M)
+
+#R.Gitachari
+R.Gitachari 
+Padma (F, deathday=d, id=Padma1)
+	Srikant (M, id=Srikant1)
+	Sudarsan (M, id=Sudarsan1)
+	Dr. Rajashree (F)
+	Chandrakala (F)
+
+#Srikant
+Srikant (id=Srikant1)
+Jayalakshmi (F)
+	Preeti (F)
+	Sruti (F)
+
+#Sudarsan
+Sudarsan (F, id=Sudarsan1)
+Shanta (F)
+	Haripriya (F)
+	Harini (F, id=Harini1)
+
+#Dr.Rajashree
+Dr.Rajashree
+R.V. Raghavan (M, surname=Vadodra)
+
+#Chandrakala
+Chandrakala
+Dr. M. Parthasarathy (M)
+	Deepa (F, id=Deepa1)
+
+#Deepa
+Deepa (id=Deepa1)
+Rangarajan (M, id=Rangarajan1)
+	Miss Hita (F)
+
+
+
+#R. Varadarajan
+R. Varadarajan(deathday=d)
+Kanakavalli (F, surname=Kakkuma, deathday=d)
+	V. Srinivasan (M)
+	Lakshmi (F, id=Lakshmi1)
+
+#V. Srinivasan
+V. Srinivasan
+Radha (F)
+	Jayanti (F, id=Jayanti1)
+
+#Lakshmi
+Lakshmi (id=Lakshmi1)
+Raghavachari (M)
+	Padmini(F, id=Padmini1)
+	Gita (F, id=Gita1)
+	Kamala (F, id=Kamala2)
+	R. Sudarshan (M)
+
+#Jayanti
+Jayanti (id=Jayanti1)
+K. Rajagopal (M, id=KRajagopal1)
+	Aniruddh (M, id=Aniruddh1)
+	Aditi (F)
+
+#Padmini
+Padmini (id=Padmini1)
+Muralidhar (M)
+	M. Sujay (M)
+
+#Gita
+Gita (id=Gita1)
+Vijayarangam (M)
+	Harini (F, id=Harini2)
+	Bhooma (F)
+	Sriram (M, id=Sriram1)	
+
+#Kamala
+Kamala (id=Kamala2)
+Ravi (M)
+	Trivikraman (M)
+
+#R. Sudarshan
+R. Sudarshan
+Yadugiri (F)
+	Vibhu (M)
+
+
+#Kamala
+Kamala (id=Kamala1)
+Narasimhachari (M, deathday=d)
+	Srinivasan (M, id=Srinivasan1)
+	Padma (F, id=Padma2)
+	Rangamani (F)
+	Ramaraj (M)
+
+#Srinivasan
+Srinivasan (id=Srinivasan1)
+Vimala (F)
+	Vijayalakshmi (F)
+	Krishna (M)
+	Vyjayanti (F)
+
+#Vijayalakshmi
+Vijayalakshmi
+W.R. Parthasarathy (M)
+	Priya (F, id=Priya1)
+	Vikram (M)
+
+#Priya
+Priya (id=Priya1)
+Ashok (M, surname=USA)
+
+#Padma
+Padma (id=Padma2)
+Sundararajan (M)
+	Gita (F, id=Gita2)
+
+#Vyjayanti
+Vyjayanti
+Srinivasan (M, id=Srinivasan2, surname=USA)
+	Arvind (M)
+	Avni (F, surname=USA)
+	Pranav (M, surname=USA)
+
+
+
+#Gita
+Gita (id=Gita2)
+Gopalakrishna (M, surname=USA)
+	Anugraha (F)
+	Anila (F)
+	Aniruddh (M, id=Aniruddh2)
+
+#Rangamani
+Rangamani
+Ranganathan (M, id=Ranganathan1)
+	Surendra Ranganathan (M)
+
+#Surendra Ranganathan
+Surendra Ranganathan
+Sudha (F)
+	Aditya (M)
+	Maya (F)
+
+#Ramaraj
+Ramaraj
+Sundara (F)
+	Venkatadri (M)
+
+#Venkatadri
+Venkatadri
+Sheela (F)
+	Tara (F, surname=Baby)
+
+
+
+
+
+
+
+
+
 
 #C.R. Thiruvenkatachari
-C.R. Thiruvenkatachari (M)
+C.R. Thiruvenkatachari 
 Sitammal (F)
 
-#C.R Lakshmivaraha Iyengar (M)
-C.R Lakshmivaraha Iyengar (M)
+#C.R Lakshmivaraha Iyengar 
+C.R Lakshmivaraha Iyengar 
 Kothai (F)
 
-#C.R. Krishnaswamy Iyengar (M)
-C.R. Krishnaswamy Iyengar (M)
+#C.R. Krishnaswamy Iyengar 
+C.R. Krishnaswamy Iyengar 
 Komalavalli (F)
 
