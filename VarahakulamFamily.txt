@@ -6,9 +6,9 @@ Alamelu (F)
 # Indented lines after the union represent children
 	Shenbakam (F)
 	Ranganayaki (F, id=Ranganayaki1)
-	C.R. Thiruvenkatachari (M)
-	C.R Lakshmivaraha Iyengar (M)
-	C.R. Krishnaswamy Iyengar (M)
+	C.R. Thiruvenkatachari (M, deathday=d)
+	C.R Lakshmivaraha Iyengar (M, deathday=d)
+	C.R. Krishnaswamy Iyengar (M, deathday=d)
 
 #Shenbakam
 Shenbakam 
@@ -36,7 +36,7 @@ Padma (F, deathday=d, id=Padma1)
 
 #Srikant
 Srikant (id=Srikant1)
-Jayalakshmi (F)
+Jayalakshmi (F, id=Jayalakshmi1)
 	Preeti (F)
 	Sruti (F)
 
@@ -65,11 +65,11 @@ Rangarajan (M, id=Rangarajan1)
 #R. Varadarajan
 R. Varadarajan(deathday=d)
 Kanakavalli (F, surname=Kakkuma, deathday=d)
-	V. Srinivasan (M)
+	V. Srinivasan (M, id=VSrinivasan1)
 	Lakshmi (F, id=Lakshmi1)
 
 #V. Srinivasan
-V. Srinivasan
+V. Srinivasan (id=VSrinivasan1)
 Radha (F)
 	Jayanti (F, id=Jayanti1)
 
@@ -188,7 +188,164 @@ Sheela (F)
 
 #C.R. Thiruvenkatachari
 C.R. Thiruvenkatachari 
-Sitammal (F)
+Sitammal (F, deathday=d)
+	Komalavalli (F, id=Komalavalli1, surname=Kombi, deathday=d)
+	Rajalakshmi (F, id=Rajalakshmi1, surname=Ajili, deathday=d)
+	C.T. Gopalaswamy (M, surname=Anna, deathday=d)
+	Soundaravalli (F, surname=Sanduli, deathday=d)
+	C.T. Sundaram (M, surname=Sundari, deathday=d)
+	C.T. Srinivasan (M, surname=Cheema, deathday=d)
+	Rukmani (F, id=Rukmani1, surname=Rukku, deathday=d)
+	Mythili (F, surname=Kuttirukku, deathday=d)
+	C.T. Krishnaswamy (M, surname=Kichami, deathday=d)
+	C.T. Rangaswamy (M, surname=Thambi, deathday=d)
+	Sakuntala (F, surname=Sakku, deathday=d)
+
+#Rajalakshmi
+Rajalakshmi (id=Rajalakshmi1)
+S.V. Padmanabha Iyengar (M, deathday=d)
+	S.P. Vasudevan (M, deathday=d)
+	S.P. Venkataraman (M, deathday=d)
+
+
+#S.P. Vasudevan
+S.P. Vasudevan
+Jayam (F, deathday=d)
+	S.V Padmanabhan (M) 
+	Lalitha (F)
+	V. Rajasundaram (M)
+	V. Srinivasan (M, id=VSrinivasan2)
+	S.V. Parthasarathi (M)
+	V. Ramaswamy (M, surname=Ranipet)
+	Chitra (F)
+
+
+#S.V. Padmanabhan
+S.V. Padmanabhan
+Pankaja (F)
+	Sarayu (F)
+	Vasudevan (M, id=Vasudevan1, surname=Bharat)	
+
+#Sarayu
+Sarayu
+Padmanabhan (M, id=Padmanabhan1)
+	Bhavana (F)
+	Uday (M)
+
+#Vasudevan
+Vasudevan (id=Vasudevan1)
+Srikala (F)
+	Mihika (F)
+
+#Lalitha
+Lalitha
+M.R. Ramachandran (M)
+
+#V. Rajasundaram
+V. Rajasundaram
+Vijaya (F, id=Vijaya1)
+	Gayatri (F, id=Gayatri1)
+	Sudarsan (M, id=Sudarsan2)
+
+
+#Gayatri
+Gayatri (id=Gayatri1)
+Suresh (M)
+
+#Sudarsan
+Sudarsan2 (id=Sudarsan2)
+Sripriya (F, id=Sripriya1)
+	Tejas Parthasarathi (M)
+
+#V. Srinivasan
+V. Srinivasan (id=VSrinivasan2)
+Usha (F, id=Usha1)
+	Vasudevan (M, id=Vasudevan2, surname=Jithu)
+	Govindarajan (M, surname=Rahul)
+
+#S.V. Parthasarathi
+S.V. Parthasarathi
+Saroja (F, id=Saroja1)
+	Jayalakshmi (F, id=Jayalakshmi2, surname=Svetha)
+	Sukanya (F)
+
+#Jayalakshmi
+Jayalakshmi (id=Jayalakshmi2)
+M. Balaji (M)
+
+#V. Ramaswamy
+V. Ramaswamy 
+Jayashri (F)
+	Arthi (F)
+
+#Chitra
+Chitra 
+Manivannan (M)
+	Vaishnavi (F, surname=Jyotsna)
+	Janani (F)
+
+
+#C.T. Gopalaswamy
+C.T. Gopalaswamy
+Doraiammal (F, deathday=d)
+	Vijaya (F, id=Vijaya2)
+	Padma (F, deathday=d, id=Padma3)
+	C.G. Bashyam (M, surname=Bachu)
+
+
+#Vijaya
+Vijaya (id=Vijaya2)
+Dr. S. Parthasarathi (M, deathday=d)
+	Dr. P. Nalini (F, surname=Pondicherry)
+
+#Padma
+Padma (id=Padma3)
+C.S. Varahachari (M, deathday=d)
+	C.V. Ranganathan (M, surname=Babu)
+	C.V. Ramanujam (M, deathday=d, surname=Mohan)
+	Chandra (F)
+
+#C.V. Ranganathan
+C.V. Ranganathan
+Sitha (F)
+	C.R. Anand (M)
+	C.R. Aparna (F, surname=Arathi)
+
+#C.R. Anand
+C.R. Anand
+Sujatha (F, id=Sujatha1)
+
+
+#Chandra
+Chandra
+Dr. S. Sridharan (F, surname=USA)
+	Jyotsna (F)
+	Sai Satya (M)
+
+#C.G. Bashyam
+C.G. Bashyam
+Sharada (F, surname=Charu, deathday=d)
+	Ravinder Bashyam (M, surname=Ravi)
+	Dr. Indu (F)
+	Dr. Sridhar Bashyam (M, surname=USA)
+
+
+#Ravinder Bashyam
+Ravinder Bashyam
+R. Leela (F)
+	R. Sukhanya (F, surname=Sukhi)
+	R. Siddarth (M, surname=Manoj)
+
+#Dr. Indu
+Dr. Indu
+Dr. Suresh V. Ambudkar (M, surname=USA)
+	Utkarsh S. Ambudkar (M)
+
+#Dr. Sridhar Bashyam
+Dr. Sridhar Bashyam
+Sudha (F, id=Sudha1)
+	Ananya (F)
+
 
 #C.R Lakshmivaraha Iyengar 
 C.R Lakshmivaraha Iyengar 
