@@ -70,7 +70,7 @@ Kanakavalli (F, surname=Kakkuma, deathday=d)
 
 #V. Srinivasan
 V. Srinivasan (id=VSrinivasan1)
-Radha (F)
+Radha (F, id=Radha1)
 	Jayanti (F, id=Jayanti1)
 
 #Lakshmi
@@ -179,13 +179,6 @@ Sheela (F)
 
 
 
-
-
-
-
-
-
-
 #C.R. Thiruvenkatachari
 C.R. Thiruvenkatachari 
 Sitammal (F, deathday=d)
@@ -212,12 +205,12 @@ S.V. Padmanabha Iyengar (M, deathday=d)
 S.P. Vasudevan
 Jayam (F, deathday=d)
 	S.V Padmanabhan (M) 
-	Lalitha (F)
+	Lalitha (F, id=Lalitha1)
 	V. Rajasundaram (M)
 	V. Srinivasan (M, id=VSrinivasan2)
 	S.V. Parthasarathi (M)
 	V. Ramaswamy (M, surname=Ranipet)
-	Chitra (F)
+	Chitra (F, id=Chitra1)
 
 
 #S.V. Padmanabhan
@@ -279,7 +272,7 @@ Jayashri (F)
 	Arthi (F)
 
 #Chitra
-Chitra 
+Chitra (id=Chitra1)
 Manivannan (M)
 	Vaishnavi (F, surname=Jyotsna)
 	Janani (F)
@@ -300,7 +293,7 @@ Dr. S. Parthasarathi (M, deathday=d)
 
 #Padma
 Padma (id=Padma3)
-C.S. Varahachari (M, deathday=d)
+C.S. Varahachari (M, deathday=d, id=CSVarahachari1)
 	C.V. Ranganathan (M, surname=Babu)
 	C.V. Ramanujam (M, deathday=d, surname=Mohan)
 	Chandra (F)
@@ -324,7 +317,7 @@ Dr. S. Sridharan (F, surname=USA)
 
 #C.G. Bashyam
 C.G. Bashyam
-Sharada (F, surname=Charu, deathday=d)
+Sharada (F, surname=Charu, deathday=d, id=Sharada1)
 	Ravinder Bashyam (M, surname=Ravi)
 	Dr. Indu (F)
 	Dr. Sridhar Bashyam (M, surname=USA)
@@ -345,6 +338,154 @@ Dr. Suresh V. Ambudkar (M, surname=USA)
 Dr. Sridhar Bashyam
 Sudha (F, id=Sudha1)
 	Ananya (F)
+
+
+#Soundaravalli
+Soundaravalli
+C.V. Srinivasachari (M, deathday=d)
+	C.S. Varahachari (M, deathday=d, surname=Thambi - married daughter of C.T.Gopalaswamy - Padma, id=CSVarahachari2)
+	Komalavalli (F, id=Komalavalli2, surname=Papa)
+	Thathachari (M, deathday=d, surname=Thathi)
+	C.S. Padmanabhan (M, deathday=d)
+
+#Komalavalli
+Komalavalli (id=Komalavalli2)
+V. Vedantachari (M, deathday=d)
+	V.V. Sampath (M)
+	Lalitha (F, id=Lalitha2)
+
+#V.V. Sampath
+V.V. Sampath
+Prema (F)
+
+#Lalitha
+Lalitha (id=Lalitha2)
+V. Ramanujachari (M)
+
+#Thathachari 
+Thathachari
+Malliga (F)
+	Chitra (F, id=Chitra2)
+	Anuradha (F, surname=Anu)
+	Dr. C.T. Indira (F)
+
+
+#Chitra
+Chitra (id=Chitra2)
+N. Rajagopalan (M, surname=Santhanam)
+	R. Madhusudhan (M, surname=Madhu)
+
+#R. Madhusudhan
+R. Madhusudhan
+Sujatha (F, id=Sujatha2)
+	Sai Divya (F)
+
+#Anuradha
+Anuradha
+Dr. Rangachari (M, surname=Giri)
+	Srilatha (F)
+
+#Srilatha
+Srilatha
+Dr. N.K. Krishnaswamy (M)
+	Nandita (F)
+
+
+#C.T. Sundaram
+C.T. Sundaram
+Radha (F, id=Radha2, deathday=d)
+	C.S. Murthy (M)
+	C.S. Madan (M)
+	Jayalakshmi (F, id=Jayalakshmi3, surname=Jayyu)
+	C.S. Seshadri (M, surname=Chechu)
+	C.S. Desikachari (M, surname=Thambi)
+	C.S. Krishnaswamy (M, surname=Krishnaji)
+	C.S. Srinivasan (M, surname=Akkappa)
+	C.S. Mohan (M)
+	Indira (F, id=Indira1)
+
+
+#C.S. Murthy
+C.S. Murthy
+Janaki (F, id=Janaki1, surname=Babu)
+	M.S. Muralidharan (M)
+	Suresh Murthy (M, surname=Pune)
+	Srikanth Murthy (M)
+
+#M.S. Muralidharan
+M.S. Muralidharan
+Usha (F, id=Usha2)
+	Ramanujam (M, id=Ramanujam1)
+
+#Suresh Murthy
+Suresh Murthy
+Rukmani (F, id=Rukmani2)
+	Nandini (F)
+
+#Srikanth Murthy
+Srikanth Murthy
+Rajalakshmi (F, id=Rajalakshmi2, surname=Raji)
+	Pallavi (F)
+
+#C.S. Madan
+C.S. Madan
+Indira (F, id=Indira2)
+	Ashok Kumar (M, surname=USA)
+	Sita (F, id=Sita2)
+
+#Ashok Kumar
+Ashok Kumar
+Pushpa (F, id=Pushpa1)
+	Vinay Kumar (M)
+	Nikhil Kumar (M)
+
+#Sita
+Sita (id=Sita2)
+K. Srinivasan (M)
+
+
+#Jayalakshmi
+Jayalakshmi (id=Jayalakshmi3)
+V.R. Srinivasan (M)
+	Narayanan (M, deathday=d, id=Narayanan1)
+
+
+#C.S. Desikachari 
+C.S. Desikachari
+Shenbagam (F)
+	Ramesh (M)
+
+#C.S. Krishnaswamy
+C.S. Krishnaswamy
+Champakam (F)
+
+#C.S. Mohan
+C.S. Mohan
+Geetha (F, id=Geetha1)
+	Deepa (F)
+	Bharat (M, id=Bharat1)
+
+#Indira
+Indira (id=Indira1)
+Sahadevan (M, deathday=d, surname=Kuttirukkus son)
+	Jayashree (F, id=Jayashree1)
+	Prakash (M, id=Prakash1)
+
+#Jayashree
+Jayashree (id=Jayashree1)
+Madhusudhan (M, id=Madhusudhan1)	
+
+
+
+#Rukmani
+Rukmani (id=Rukmani1)
+K.R. Rajagopala Iyengar (M, deathday=d)
+	R. Srinivasan (M, deathday=d, surname=Boyi)
+	R. Ramaswamy (M, deathday=d)
+	Sharada (F, id=Sharada2, deathday=d)
+
+
+
 
 
 #C.R Lakshmivaraha Iyengar 
