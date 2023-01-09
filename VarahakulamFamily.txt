@@ -7,7 +7,7 @@ Alamelu (F)
 	Shenbakam (F)
 	Ranganayaki (F, id=Ranganayaki1)
 	C.R. Thiruvenkatachari (M, deathday=d)
-	C.R Lakshmivaraha Iyengar (M, deathday=d)
+	C.R Lakshmivaraha Iyengar (M, deathday=d1956)
 	C.R. Krishnaswamy Iyengar (M, deathday=d)
 
 #Shenbakam
@@ -38,7 +38,7 @@ Padma (F, deathday=d, id=Padma1)
 Srikant (id=Srikant1)
 Jayalakshmi (F, id=Jayalakshmi1)
 	Preeti (F)
-	Sruti (F)
+	Sruti (F, id=Sruti1)
 
 #Sudarsan
 Sudarsan (F, id=Sudarsan1)
@@ -64,7 +64,7 @@ Rangarajan (M, id=Rangarajan1)
 
 #R. Varadarajan
 R. Varadarajan(deathday=d)
-Kanakavalli (F, surname=Kakkuma, deathday=d)
+Kanakavalli (F, id=Kanakavalli1, surname=Kakkuma, deathday=d)
 	V. Srinivasan (M, id=VSrinivasan1)
 	Lakshmi (F, id=Lakshmi1)
 
@@ -164,8 +164,8 @@ Ranganathan (M, id=Ranganathan1)
 #Surendra Ranganathan
 Surendra Ranganathan
 Sudha (F, id=Sudha1)
-	Aditya (M)
-	Maya (F)
+	Aditya (M, id=Aditya1)
+	Maya (F, id=Maya1)
 
 #Ramaraj
 Ramaraj
@@ -189,7 +189,7 @@ Sitammal (F, deathday=d)
 	C.T. Sundaram (M, surname=Sundari, deathday=d)
 	C.T. Srinivasan (M, surname=Cheema, deathday=d)
 	Rukmani (F, id=Rukmani1, surname=Rukku, deathday=d)
-	Mythili (F, surname=Kuttirukku, deathday=d)
+	Mythili (F, id=Mythili1, surname=Kuttirukku, deathday=d)
 	C.T. Krishnaswamy (M, surname=Kichami, deathday=d)
 	C.T. Rangaswamy (M, surname=Thambi, deathday=d)
 	Sakuntala (F, id=Sakuntala1, surname=Sakku, deathday=d)
@@ -296,7 +296,7 @@ Padma (id=Padma3)
 C.S. Varahachari (M, deathday=d, id=CSVarahachari1)
 	C.V. Ranganathan (M, surname=Babu)
 	C.V. Ramanujam (M, deathday=d, surname=Mohan)
-	Chandra (F)
+	Chandra (F, id=Chandra1)
 
 #C.V. Ranganathan
 C.V. Ranganathan
@@ -310,7 +310,7 @@ Sujatha (F, id=Sujatha1)
 
 
 #Chandra
-Chandra
+Chandra (id=Chandra1)
 Dr. S. Sridharan (F, surname=USA)
 	Jyotsna (F)
 	Sai Satya (M)
@@ -420,7 +420,7 @@ Usha (F, id=Usha2)
 #Suresh Murthy
 Suresh Murthy
 Rukmani (F, id=Rukmani2)
-	Nandini (F)
+	Nandini (F, id=Nandini1)
 
 #Srikanth Murthy
 Srikanth Murthy
@@ -518,7 +518,7 @@ C.G. Bashyam (M, id=CGBashyam2, surname=Son of C.T.Gopalaswamy)
 
 
 #Mythili
-Mythili
+Mythili (id=Mythili1)
 S. Ramaswamy Iyengar (M, deathday=d)
 	R. Seshadri (M, deathday=d)
 	R. Madhavachari (M, surname=Madhu)
@@ -713,7 +713,289 @@ Dr. Srinath (M, surname=USA)
 
 #C.R Lakshmivaraha Iyengar 
 C.R Lakshmivaraha Iyengar 
-Kothai (F)
+Kothai (F, deathday=d1962, id=Kothai1, surname=Chithi)
+	C.L. Padmanabhan (M, deathday=d1950, surname=Narayansami)
+	C.L. Ramaswamy (M, deathday=d1978, surname=Ramu)
+	C.L. Aravamudhan (M, deathday=d, surname=Adopted by C.K.S.Iyengar)
+	C.L. Rangaswami (M, deathday=d, surname=Chinnathambi)
+	C.L. Sarangapani (M, deathday=d2000, surname=Chami)
+
+
+#C.L. Padmanabhan
+C.L. Padmanabhan
+Kasturi (F, deathday=d, surname=Kuttima, Sister of Kanakavalli)
+	C.P. Krishnaswami (M, deathday=d, surname=Kichami)
+	C.P. Boovaraghavan (M, deathday=d)
+	Komalavalli (F, surname=Ko, id=Komalavalli3)
+
+
+#C.P. Krishnaswami
+C.P. Krishnaswami
+Seetha (F, id=Seetha1, surname=Bangalore)
+	Gopalakrishna (M, id=Gopalakrishna1, surname=Bangalore)
+	Chamu Rajendra (M, surname=Bangalore)
+	Jayashree (F, id=Jayashree3)
+	Bharathi (F, id=Bharathi1)
+
+#Gopalakrishna
+Gopalakrishna (id=Gopalakrishna1)
+Anju (F, id=Anju1)
+	Jaya (F, id=Jaya1)
+	Jayant (M, id=Jayant1)
+
+#Chamu Rajendra
+Chamu Rajendra
+Asha (F, id=Asha1)
+	Revathi (F, id=Revathi2)
+
+#Jayashree
+Jayashree (id=Jayashree3)
+Amble Nathan (M, surname=USA)
+	Arun (M, id=Arun1)
+
+#Bharathi
+Bharathi (id=Bharathi1)
+S. Narayanan (M)
+	Sruti (F, id=Sruti2)
+
+
+
+#C.P. Boovaraghavan
+C.P. Boovaraghavan
+Padma (F, id=Padma4)
+	Sudha (F, id=Sudha4)
+
+#Komalavalli
+Komalavalli (F, id=Komalavalli3)
+K.A. Varadarajan (M, surname=Madurai)
+	V. Bobjee (M, surname=Bombay)
+	Jaya (F, id=Jaya2)
+	Kanaka (F)
+	V. Desikan (M, surname=Desi)
+
+#V. Bobjee
+V. Bobjee
+Nirmala (F, id=Nirmala1)
+	Harishri (F, surname=USA)
+	Bharat (M, id=Bharat3)
+
+#Jaya
+Jaya (id=Jaya2)
+R. Sundararajan (M, surname=New Delhi)
+	Shobini (F)
+	Sundarshan (M, surname=USA)
+
+#Shobini
+Shobini
+S. Ramachandran (M, surname=Delhi)
+	Prithvi (M)
+
+#Kanaka
+Kanaka
+Vedantam (M)
+	Vasupradha (F)
+	Vijayashree (M)	
+
+#V.Desikan
+V. Desikan
+Lalitha (F, id=Lalitha5)
+	Aravind (M, id=Aravind1, surname=USA)
+	Arathi (F)
+
+#C.L. Ramaswamy
+C.L. Ramaswamy
+Sita (F, id=Sita3, surname=Madras)
+	C.R. Seshanarayanan (M, surname=Seshu, deathday=d1999)
+	C.R. Sathyabhama (F, surname=Bhama)
+	C.R. Vijayaraghavan (M, surname=Baby)
+
+
+#C.R. Seshanarayanan
+C.R. Seshanarayanan
+Sarasa (F)
+	Sumitra (F, id=Sumitra1)
+	Dr. Suchitra (F)
+
+#Sumitra
+Sumitra (id=Sumitra1)
+G. Gautama (M)
+	Ambuja (F)
+	Ram Gopal (M)
+
+#Dr. Suchitra
+Dr. Suchitra
+Wg. Comdr Ramkumar Mahadevan (M, surname=Wellington)	
+	Anasuya (F)
+
+
+#C.L. Aravamudhan
+C.L. Aravamudhan
+Jambagalakshmni (F, deathday=d)
+	C.A. Padmanabhan (M, surname=Bomanna)
+	Kanakavalli (F, id=Kanakavalli2, surname=Kanaka)
+	Ambujavali (F, surname=Ambuji)
+
+#C.A. Padmanabhan
+C.A. Padmanabhan
+Lalitha (F, id=Lalitha6)
+	C.P. Vasudevan (M, surname=USA)
+	C.P. Balakrishnan (M, surname=Winnie)
+
+#C.P. Vasudevan
+C.P. Vasudevan
+Mala (F)
+	Anand (M, id=Anand1, surname=USA)
+	Pavithra (F, id=Pavithra1, surname=USA)
+	Raksha (F, id=Raksha1, surname=USA)  
+
+#C.P. Balakrishnan
+C.P. Balakrishnan
+Revathi (F, surname=Divorced)
+	Mukund (M, id=Mukund1)
+	Narain (M, surname=Canada)
+
+C.P. Balakrishnan
+Sumana (F, surname=Canada)
+
+#Kanakavalli
+Kanakavalli (id=Kanakavalli2)
+R. Veeraraghavan (M, deathday=d)
+
+#Ambujavalli
+Ambujavali
+A.S. Raman (M, deathday=d)
+	Bharati (F)
+	Hemalatha (F)
+	Balaji Raghunandhan (M)
+
+#Bharati
+Bharati
+K.S. Varadarajan (M)
+	Deepak (M, id=Deepak1, surname=Bombay)
+
+#Hemalatha
+Hemalatha 
+Rangarajan (M, id=Rangarajan2)
+	Deepa (F, id=Deepa3)
+
+#Deepa
+Deepa (id=Deepa3)
+Rajesh Krishnamurthy (M)
+	Aswin (M, id=Aswin1)
+
+#Balaji Raghunandhan
+Balaji Raghunandhan
+Jayashree (F, id=Jayashree4)
+	Siddarth (M, id=Siddarth2)
+	Smriti (F, id=Smriti1)
+
+
+#C.L. Rangaswami
+C.L. Rangaswami
+Rajalakshmi (F, id=Rajalakshmi3)
+	C.R. Srinivasan (M, surname=Bobjee)
+	C.R. Bharatan (M, deathday=d, surname=Bharatu)
+	Choodamani (F, surname=Choodi)
+	C.R. Mukundan (M, deathday=d)
+	Mythili (F, id=Mythili2, surname=Baby)
+
+
+#C.R. Srinivasan
+C.R. Srinivasan
+Lakshmi (F, id=Lakshmi3)
+
+#C.R. Bharatan
+C.R. Bharatan
+Nirupama (F, id=Nirupama1)
+	Nirmala (F, id=Nirmala2, surname=Nimmu)
+	Anuradha (F, id=Anuradha2, surname=Anu)
+	Mahesh (M, id=Mahesh1)
+
+#Nirmala
+Nirmala (id=Nirmala2)
+Mahesh (M, id=Mahesh2, surname=Madras)
+	Varun (M, id=Varun1)
+
+#Anuradha
+Anuradha (F, id=Anuradha2)
+Chandramouli (M, id=Chandramouli1, surname=USA)
+
+
+#Choodamani
+Choodamani 
+K. Padmanabhan (M, deathday=d, surname=Sathy)
+	Narendran (M, id=Narendran1)
+	Nandini (F, id=Nandini2)
+	Nicky Ranganathan (M)
+
+#Narendran
+Narendran (id=Narendran1)
+Shanthi (F, id=Shanthi1, surname=London)
+	Anish (M)
+	Anirudh (M, id=Anirudh1)
+
+#Nandini
+Nandini (id=Nandini2)
+Sarat Chander (M, surname=USA)
+	Arjun (M, id=Arjun1)
+	Ashwin (M, id=Ashwin1)
+
+#Nicky Ranganathan
+Nicky Ranganathan
+Asha (F, id=Asha2)
+	Aditya (M, id=Aditya2)
+	Aravind (M, id=Aravind2)
+
+#C.R. Mukundan
+C.R. Mukundan 
+Saroja (F, id=Saroja3)
+	Shanthi (F, id=Shanthi2)
+
+#Shanthi
+Shanthi (id=Shanthi2)
+Mukund (M, id=Mukund2)
+
+#Mythili
+Mythili (id=Mythili2)
+R. Krishnan (M, surname=Bangalore)
+	Srinivas Krishnan (M, surname=USA)
+	Jayashree (F, id=Jayashree5, surname=USA)
+
+#Srinivas Krishnan
+Srinivas Krishnan
+Vaishnavi (F, id=Vaishnavi1)
+
+#Jayashree
+Jayashree (id=Jayashree5)
+Avanish (M)
+	Siddarth (M, id=Siddarth3)
+
+
+#C.L. Sarangapani
+C.L. Sarangapani
+Rajalakshmi (F, id=Rajalakshmi4, surname=Rajam)
+	Chandra (M, id=Chandra2)
+	C.S. Karthikeyan (M)
+	C.S. Sampathkumar (M)
+	C.S. Vijayavalli (F, surname=USA)
+
+
+#C.S. Karthikeyan
+C.S. Karthikeyan
+Hema (F, id=Hema1)
+
+#C.S. Sampathkumar
+C.S. Sampathkumar
+Latha (F, id=Latha1)
+
+#C.S. Vijayavalli
+C.S. Vijayavalli
+Ramesh Babu Ramaswamy (M, surname=USA)
+	Uthara (F, id=Uthara1)
+
+
+
+
 
 #C.R. Krishnaswamy Iyengar 
 C.R. Krishnaswamy Iyengar 
