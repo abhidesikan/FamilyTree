@@ -2,7 +2,7 @@
 
 # Two lines represent an union:
 Varahakulam A. Rangaswamy Iyengar (M, birthday=1836, deathday=1916)
-Alamelu (F)
+Alamelu (F, id=Alamelu1)
 # Indented lines after the union represent children
 	Shenbakam (F)
 	Ranganayaki (F, id=Ranganayaki1)
@@ -441,7 +441,7 @@ Pushpa (F, id=Pushpa1)
 
 #Sita
 Sita (id=Sita2)
-K. Srinivasan (M)
+K. Srinivasan (M, id=KSrinivasan1)
 
 
 #Jayalakshmi
@@ -480,13 +480,13 @@ Madhusudhan (M, id=Madhusudhan1)
 #Rukmani
 Rukmani (id=Rukmani1)
 K.R. Rajagopala Iyengar (M, deathday=d)
-	R. Srinivasan (M, deathday=d, surname=Boyi)
+	R. Srinivasan (M, id=RSrinivasan1, deathday=d, surname=Boyi)
 	R. Ramaswamy (M, deathday=d)
 	Sharada (F, id=Sharada2, deathday=d, surname=Charu)
 
 
 #R. Srinivasan
-R. Srinivasan
+R. Srinivasan (id=RSrinivasan1)
 Sulochana (F, deathday=d)
 	S. Raghavan (M, surname=Babra)
 	Sudha (F, id=Sudha3)
@@ -999,5 +999,252 @@ Ramesh Babu Ramaswamy (M, surname=USA)
 
 #C.R. Krishnaswamy Iyengar 
 C.R. Krishnaswamy Iyengar 
-Komalavalli (F)
+Komalavalli (F, id=Komalavalli4, deathday=d)
+	K. Srinivasan (M, id=KSrinivasan2, surname=Geechu, deathday=d)
+	Ambujam (F, id=Ambujam1, deathday=d)
+	Kalyani (F, id=Kalyani1, deathday=d)
+	K. Aravamudhan (M, deathday=d)
+	K. Ramaswamy (M, deathday=d)
+	K. Rajagopal (M, deathday=d)
+	K. Lakshminarasimhan (M, deathday=d, surname=Thambi)
+	K. Parthasarathy (M)
+	Vasantha (F, id=Vasantha2)
+
+
+#K. Srinivasan
+K. Srinivasan (id=KSrinivasan2)
+Maduram (F)
+	S. Rangaswami (M)
+	Malathi (F)
+
+#S. Rangaswami
+S. Rangaswami
+M. Sulochana (F)
+	R. Krishnakumar (M) 
+
+#R. Krishnakumar
+R. Krishnakumar
+Gayathri (F, id=Gayathri1)
+	Krithika (F, id=Krithika1)
+
+
+#Malathi
+Malathi
+Raghunathan (M, id=Raghunathan2)
+	Satish (M, id=Satish1, surname=Bombay)
+	Indumathi (F, id=Indumathi1)
+
+#Satish
+Satish (id=Satish1)
+Anupama (F, id=Anupama1)
+	Prashant (M, id=Prashant1)
+
+#Indumathi
+Indumathi (id=Indumathi1)
+K. Srinivasan (M, id=KSrinivasan3, surname=UAE)
+	Aarthi (F, id=Aarthi1)
+
+
+#K. Aravamudhan
+K. Aravamudhan
+Komalavalli (F, id=Komalavalli5, deathday=d)
+	A. Sridhar (M)
+	A. Murali (M)
+	Hema (F, id=Hema2)
+	Rama (F, id=Rama1)
+
+#A. Sridhar
+A. Sridhar
+Rama (F, id=Rama2)
+	A. Sundar (M)
+	A. Venkat (M)
+
+#A. Sundar 
+A. Sundar
+Priya (F, id=Priya2)
+	Chandni (F)
+	Sahasra (F)
+
+#A. Murali
+A. Murali 
+Vedavalli (F, surname=Sasi)
+	Sriram (M, id=Sriram2)
+	Latha (F, id=Latha2)
+
+#Hema
+Hema (id=Hema2)
+V.V. Rajan (M)
+	Jayashree (F, id=Jayashree6)
+	Anand (M, id=Anand2)
+
+#Jayashree
+Jayashree (id=Jayashree6)
+Bharat (M, id=Bharat4)
+	Krishna (M, id=Krishna2)
+	Ram (M, id=Ram1)
+
+#Rama
+Rama (id=Rama1)
+Vasu (M, id=Vasu1)
+	Srinath (M, id=Srinath1)
+
+
+#K. Rajagopal
+K. Rajagopal
+Janakam (F, deathday=d2021)
+	R. Desikan (M, deathday=d2009)
+	Jayanthi (F, id=Jayanthi1)
+
+#R. Desikan
+R. Desikan
+Sumathi Desikan (F)
+	Rohith (M)
+	Abhishek (M)
+
+
+#Jayanthi 
+Jayanthi (id=Jayanthi1)
+Saiprasad (M)
+	Sashidharan (M)
+
+
+#K. Lakshminarasimhan
+K. Lakshminarasimhan
+Rajalakshmi (F, id=Rajalakshmi5)
+	Geetha (F, id=Geetha2)
+	N. Krishnaswami (M, deathday=d)
+	N. Parthasarathy (M, surname=Delhi)
+	Lakshmi (F, id=Lakshmi4)
+	N. Rangarajan (M)
+	N. Sampath (M, surname=Dubai)
+
+
+#Geetha
+Geetha (id=Geetha2)
+V.P. Raman (M)
+	R. Nithyakalyani (F)
+	R. Gayathri (F)
+	R. Sekhar (M)
+
+#R. Nithyakalyani
+R. Nithyakalyani
+Krishnakumar (M)
+	Aditya (M, id=Aditya3)	
+
+#R. Gayathri
+R. Gayathri
+Krishnan (M, id=Krishnan1)
+	Aniruddh (M, id=Aniruddh3)
+
+
+#N. Parthasarathy
+N. Parthasarathy
+Pushapa (F, id=Pushpa2)
+	Prashanth (M, id=Prashanth1)
+
+#Prashanth
+Prashanth (id=Prashanth1)
+Induja (F)
+	Son1 (M)
+	Daughter1 (F)
+
+
+#Lakshmi 
+Lakshmi (id=Lakshmi4)
+R. Sudhaman (M)
+	S. Sriram (M)
+	S. Nivedita (F)
+
+#N. Rangarajan
+N. Rangarajan
+Sudha (F, id=Sudha5)
+	Avinash (M, id=Avinash1)
+
+#N. Sampath
+N. Sampath
+Geetha (F, id=Geetha3)
+	Shruti (F, id=Shruti1)
+
+
+#K. Parthasarathy
+K. Parthasarathy
+Pankajam (F, deathday=d)
+	P. Ranganathan (M)
+	Lakshmi (F, id=Lakshmi5)
+	Nandini (F, id=Nandini3)
+	Madhavan (M, id=Madhavan2, surname=Guwahati)
+	Krishnan (F, id=Krishnan2, surname=Tirupathi)
+	Raghavan (M, surname=Delhi)
+
+#P. Ranganathan
+P. Ranganathan
+Veda (F, id=Veda1)
+	Sowmya (F)
+	Srinivasan (M, id=Srinivasan3)
+
+#Lakshmi
+Lakshmi (id=Lakshmi5)
+Parthasarathy (M, id=Parthasarathy1)
+	Deepa (F, id=Deepa4)
+	Sudarshan (M, id=Sudarshan1)
+
+
+#Nandini
+Nandini (id=Nandini3)
+Balachander (M)
+	Lavanya (F, id=Lavanya1)
+	Bharat Kumar (M)
+
+#Krishnan
+Krishnan (id=Krishnan2)
+Alamelu (F, id=Alamelu2)
+
+
+#Raghavan 
+Raghavan 
+Lakshmi (F, id=Lakshmi6)
+	Prasanna (M)
+
+
+#Vasantha
+Vasantha (id=Vasantha2)
+Ramaswamy (M, id=Ramaswamy3)
+	R. Lakshmi Narayanan (M)
+	R. Srinivasan (M, id=RSrinivasan2)
+	Kothai (F, id=Kothai2)
+
+
+#R. Lakshmi Narayanan
+R. Lakshmi Narayanan
+Kala (F, deathday=d)
+	Kavitha (F, id=Kavitha1)
+	Priya (F, id=Priya3)
+
+#R. Srinivasan
+R. Srinivasan (id=RSrinivasan2)
+Vasumathi (F, id=Vasumathi1)
+	Gayatri (F, id=Gayatri2)
+	Srikant (M, id=Srikant2)
+
+
+#Kothai
+Kothai (id=Kothai2)
+Raghunath (M)
+	R. Sriram (M)
+	Srividya (F)
+
+#R. Sriram
+R. Sriram 
+Geetha (F, id=Geetha4)
+
+
+#Srividya
+Srividya 
+Sudarshan (M, id=Sudarshan2)
+	Nikita (F)
+	Srinivas (M, id=Srinivas1)
+
+
+
+
 
